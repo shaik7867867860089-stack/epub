@@ -798,9 +798,9 @@ Like a car with airbags. If you hit a pothole (bad data), the airbag deploys (er
 ### 5.3 Cost Analysis
 
 **Manual Process:**
-- Labor: $20/hour × 50 hours = **$1,000**
+- Labor: $0.82/hour × 50 hours = **$41**
 - Software: $50/month amortized = **$10**
-- **Total: ~$1,010 per book**
+- **Total: ~$51 per book
 
 **Our System:**
 - API costs: $0.02/page × 542 pages = **$10.84**
